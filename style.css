@@ -268,3 +268,12 @@ form input[type="password"] {
     margin-left: 5rem;
 }
   .right { float: right; }
+
+  .hero-section {
+    position: relative;
+  }
+  
+  .hero-image img {
+    width: 100%;
+    height: auto;
+  }
